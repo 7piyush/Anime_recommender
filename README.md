@@ -1,5 +1,5 @@
 # Anime_recommender
-This Data set can be found at https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+This Dataset can be found at https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 # Story Based Anime Recommender System
 * Imported , cleaned and Transformed Dataset in Python using Pandas Library
 * Performed Exploratory Data Analysis to find insights about animes 
