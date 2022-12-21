@@ -1,5 +1,7 @@
 # Anime_recommender
-This Dataset can be found at https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+My Anime List (MAL) is a site for anime and manga lovers run by volunteers online , people can discuss about their favourite manga and anime and get latest content related to it on this site.
+
+This Dataset can be found at [here](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
 ## Pre-requisites
 This project was developed using Python( Jupyter notebook) using following libraries
 - Pandas
