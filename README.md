@@ -4,7 +4,7 @@ My Anime List (MAL) is a very large community of anime and manga lovers run by v
 This Dataset can be found  [here](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
 ## Pre-requisites
 This project was developed using Python( Jupyter notebook) using following libraries
-- Pandas
+- Pandas  
 - Matplotlib
 - Seaborn
 - Wordcloud
